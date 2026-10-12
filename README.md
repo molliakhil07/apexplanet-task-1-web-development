@@ -1,4 +1,4 @@
-# My Web Development Journey
+# My First internship
 
 This project created for the ApexPlanet
 45-Day Web Development Internship.
